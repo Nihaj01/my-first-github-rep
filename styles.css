@@ -1,5 +1,9 @@
 .b{
-    color: aqua;
+    color: rgb(0, 0, 0);
     background-color: bisque;
     margin: 10px;
+    border: 20px;
+    border-radius: 5px;
+    padding: 20px 10px 30px;
+
 }
